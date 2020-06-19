@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/agbemazidickson/background-gradient/issues"
   },
-  "homepage": "https://github.com/agbemazidickson/background-gradient#readme"
+  "homepage": "https://github.com/agbemazidickson/background-gradient#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
